@@ -1,3 +1,5 @@
+ALL DEVELOPMENT AFTER COMMIT [`4b05925`](https://github.com/ACTCollaboration/actapack/commit/4b059251c3896c129956da2d2e02f1ffc7d2bdac) MOVED TO [`sofind`](https://github.com/simonsobs/sofind)
+
 # actapack
 Simple, extendable framework for loading ACT products from disk.
 
